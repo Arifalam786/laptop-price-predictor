@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-from sklearn.ensemble import RandomForestRegressor,GradientBoostingRegressor,AdaBoostRegressor,ExtraTreesRegressor
+from sklearn.ensemble import ExtraTreesRegressor
 
 
 
