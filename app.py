@@ -26,7 +26,7 @@ add_bg_from_url()
 
 
 # import the model
-pipe = pickle.load(open('pipeEt.pkl','rb'))
+pipe = pickle.load(open('pipeEt1.pkl','rb'))
 df = pickle.load(open('df.pkl','rb'))
 
 st.title("Laptop Predictor")
